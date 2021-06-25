@@ -1,0 +1,12 @@
+C:\Users\3116TAN-14\AppData\Local\Temporary Projects\QiuckSort\bin\Debug\QiuckSort.exe
+C:\Users\3116TAN-14\AppData\Local\Temporary Projects\QiuckSort\bin\Debug\QiuckSort.pdb
+C:\Users\3116TAN-14\AppData\Local\Temporary Projects\QiuckSort\obj\x86\Debug\QiuckSort.exe
+C:\Users\3116TAN-14\AppData\Local\Temporary Projects\QiuckSort\obj\x86\Debug\QiuckSort.pdb
+D:\Endrődi Balázs 11p\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.exe
+D:\Endrődi Balázs 11p\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.pdb
+E:\suli\11P\Programok\QiuckSort\QiuckSort\bin\Debug\QiuckSort.exe
+E:\suli\11P\Programok\QiuckSort\QiuckSort\bin\Debug\QiuckSort.pdb
+E:\suli\11P\Programok\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.csprojResolveAssemblyReference.cache
+E:\suli\11P\Programok\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.csproj.CoreCompileInputs.cache
+E:\suli\11P\Programok\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.exe
+E:\suli\11P\Programok\QiuckSort\QiuckSort\obj\x86\Debug\QiuckSort.pdb
